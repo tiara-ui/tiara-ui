@@ -16,7 +16,7 @@
 | 9  | 02-10-2025   | 09           | StatefulWidget | [Modul 09](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing) | [laporan pdf](https://drive.google.com/file/d/1qpCvdn-b4ApPSJZYvccGhvB7uEVcPtZd/view?usp=drive_link) |
 | 10 | 09-10-2025   | 10           | (Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization diFluter)| [Modul 10](link-modul02) | [laporan pdf](https://drive.google.com/file/d/1G3Oqk4brFRTkvH56OSa6y9MvOHVX6Mnm/view?usp=drive_link) |
 | 11 | 16-10-2025   | 11           | Manajemen State dengan GetX | [Modul 11](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing) | [laporan pdf](https://drive.google.com/file/d/17oFgR5zY8N1xoE_XPRQz_fS3zeCmh7np/view?usp=drive_link) |
-| 12 | 29-10-2025   | Ujian Tengah Semester           | (Projeck UTS | [Program](link-modul02) | [laporan UTS pdf](https://drive.google.com/file/d/1rqpXJ6eTHMIjkQrmHrT59cqWciu_A0WN/view?usp=drive_link) |
+| 12 | 29-10-2025   | Ujian Tengah Semester           | (Projeck UTS)| [Program](link-modul02) | [laporan UTS pdf](https://drive.google.com/file/d/1rqpXJ6eTHMIjkQrmHrT59cqWciu_A0WN/view?usp=drive_link) |
 | 13 | 06-11-2025   | 12           | AKSES LOKASI DENGAN GPS DI FLUTTER | [Modul 12](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing) | [laporan pdf](https://drive.google.com/file/d/1UWDtNP4PQkM71mUh7KJkTV_by3QGtGoC/view?usp=drive_link) |
 | 14 | 10-09-2025   | Ujian Akhir Semester            | (Projeck UAS) | [Program](link-modul02) | [laporan UAS pdf](link-template) |
 
