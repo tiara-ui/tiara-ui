@@ -18,7 +18,9 @@
 | 11 | 16-10-2025   | 11           | Manajemen State dengan GetX | [Modul 11](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing) | [laporan pdf](https://drive.google.com/file/d/17oFgR5zY8N1xoE_XPRQz_fS3zeCmh7np/view?usp=drive_link) |
 | 12 | 29-10-2025   | Ujian Tengah Semester           | (Projeck UTS)| [Program](link-modul02) | [laporan UTS pdf](https://drive.google.com/file/d/1rqpXJ6eTHMIjkQrmHrT59cqWciu_A0WN/view?usp=drive_link) |
 | 13 | 06-11-2025   | 12           | AKSES LOKASI DENGAN GPS DI FLUTTER | [Modul 12](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing) | [laporan pdf](https://drive.google.com/file/d/1UWDtNP4PQkM71mUh7KJkTV_by3QGtGoC/view?usp=drive_link) |
-| 14 | 10-09-2025   | Ujian Akhir Semester            | (Projeck UAS) | [Program](link-modul02) | [laporan UAS pdf](link-template) |
+| 14 | 13-11-2025   | 13          | Akses Lokasi dengan MAPS di Flutter | [Modul 13](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing) | [laporan pdf](https://drive.google.com/file/d/1b7dNsmjCXAx1hiIEZsF4SXz6gSOBAxP1/view?usp=drive_link) |
+| 15 | 18-11-2025   | 14           |Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 14](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing) | [laporan pdf](https://drive.google.com/file/d/1js2JHbWBhnDbgFlOtOBpLDvIpJHM-4uy/view?usp=drive_link) |
+| 16 | 10-09-2025   | Ujian Akhir Semester            | (Projeck UAS) | [Program](link-modul02) | [laporan UAS pdf](link-template) |
 
 
 
